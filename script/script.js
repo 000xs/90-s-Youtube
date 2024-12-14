@@ -1,5 +1,5 @@
 function searchVideos() {
-  window.location.href = "/search";
+  window.location.href = "search";
 }
 const videoItems = [
   {
